@@ -1,0 +1,10 @@
+{
+  "name": "magic-of-markson",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node serve.mjs",
+    "check": "node check.mjs"
+  }
+}

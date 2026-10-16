@@ -1,0 +1,200 @@
+{
+  "photos": [
+    {
+      "key": "performance",
+      "filename": "hero-performance.jpg",
+      "role": "hero",
+      "alt": "Markson performs a floating-table illusion under purple, blue and gold stage lights.",
+      "caption": "A floating-table illusion on stage.",
+      "original_url": "https://static.wixstatic.com/media/5eb7ca_f930cb34507e4bfa99b24cf4c58b5a68~mv2.jpg",
+      "source_page": "https://www.magicofmarkson.com/about-us",
+      "width": 2000,
+      "height": 1334,
+      "focal_point": {
+        "x": 0.58,
+        "y": 0.54
+      }
+    },
+    {
+      "key": "portrait",
+      "filename": "markson-portrait.jpg",
+      "role": "portrait",
+      "alt": "Markson sits in a pale armchair holding a white dove against a dark studio background.",
+      "caption": "Meet Markson, pictured with a white dove.",
+      "original_url": "https://static.wixstatic.com/media/5eb7ca_f226f8cb2f2640a5bbf0b5ceedf002a0~mv2.jpg",
+      "source_page": "https://www.magicofmarkson.com/about-us",
+      "width": 1800,
+      "height": 1198,
+      "focal_point": {
+        "x": 0.65,
+        "y": 0.47
+      }
+    },
+    {
+      "key": "bunny",
+      "filename": "live-bunny-reveal.jpg",
+      "role": "bunny",
+      "alt": "Markson holds up a silver pan containing a white rabbit during a magic show.",
+      "caption": "The live bunny reveal.",
+      "original_url": "https://static.wixstatic.com/media/5eb7ca_9f94e5aeb8a049c191105481fa34622c~mv2.jpg",
+      "source_page": "https://www.magicofmarkson.com/kids-magic-show",
+      "width": 1800,
+      "height": 1198,
+      "focal_point": {
+        "x": 0.52,
+        "y": 0.4
+      }
+    },
+    {
+      "key": "audience",
+      "filename": "audience-participation.jpg",
+      "role": "audience",
+      "alt": "A seated audience of children points toward the performance together.",
+      "caption": "Everyone joins in with the magic.",
+      "original_url": "https://static.wixstatic.com/media/5eb7ca_361e5715cc91440abb1880e6d1baaa50~mv2.jpg",
+      "source_page": "https://www.magicofmarkson.com/",
+      "width": 1800,
+      "height": 1198,
+      "focal_point": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "key": "adult_audience",
+      "filename": "adult-audience.jpg",
+      "role": "audience-adults",
+      "alt": "Adults smile and applaud while seated at an evening performance.",
+      "caption": "A show enjoyed by the grown-ups, too.",
+      "original_url": "https://static.wixstatic.com/media/5eb7ca_e05dd6b049684a4a9269a9424f4c7903~mv2.jpg",
+      "source_page": "https://www.magicofmarkson.com/about-us",
+      "width": 1800,
+      "height": 1200,
+      "focal_point": {
+        "x": 0.43,
+        "y": 0.49
+      }
+    },
+    {
+      "key": "balloons",
+      "filename": "balloon-twisting.jpg",
+      "role": "balloon-twisting",
+      "alt": "A balloon artist twists a balloon while children wait beside a bag of colourful balloon supplies.",
+      "caption": "Balloon creations made at the party.",
+      "original_url": "https://static.wixstatic.com/media/5eb7ca_d6d9fcb63eae4d3fa00de494ce16551d~mv2.jpg",
+      "source_page": "https://www.magicofmarkson.com/balloon-twisting-singapore",
+      "width": 1800,
+      "height": 1198,
+      "focal_point": {
+        "x": 0.49,
+        "y": 0.48
+      }
+    },
+    {
+      "key": "painting",
+      "filename": "face-painting.jpg",
+      "role": "face-painting",
+      "alt": "A face painter carefully paints a design on a seated child's face.",
+      "caption": "Face painting with an artist at work.",
+      "original_url": "https://static.wixstatic.com/media/5eb7ca_43e8c07ad56d4dc68c0be5b856b30c3d~mv2.jpg",
+      "source_page": "https://www.magicofmarkson.com/face-painting-singapore",
+      "width": 1800,
+      "height": 1198,
+      "focal_point": {
+        "x": 0.47,
+        "y": 0.48
+      }
+    },
+    {
+      "key": "glitter",
+      "filename": "glitter-tattoos.jpg",
+      "role": "glitter-tattoos",
+      "alt": "An artist applies a design to a child's forearm at a decorated party activity station.",
+      "caption": "A little extra sparkle at the party.",
+      "original_url": "https://static.wixstatic.com/media/5eb7ca_b3ce3a5d3d104f209c7b04c3a2b35062~mv2.jpg",
+      "source_page": "https://www.magicofmarkson.com/glitter-tattoo-singapore",
+      "width": 1800,
+      "height": 1202,
+      "focal_point": {
+        "x": 0.54,
+        "y": 0.55
+      }
+    },
+    {
+      "key": "airbrush",
+      "filename": "airbrush-tattoo.webp",
+      "role": "airbrush-tattoo",
+      "alt": "A gloved artist uses an airbrush beside a colourful butterfly tattoo on a child's forearm.",
+      "caption": "A colourful butterfly airbrush tattoo.",
+      "original_url": "https://static.wixstatic.com/media/5eb7ca_d1efda84a5e74ae19cdc3251bf06fc00~mv2.webp",
+      "source_page": "https://www.magicofmarkson.com/partyservices",
+      "width": 1006,
+      "height": 634,
+      "focal_point": {
+        "x": 0.48,
+        "y": 0.53
+      }
+    },
+    {
+      "key": "caricature",
+      "filename": "caricature-drawing.jpg",
+      "role": "caricature",
+      "alt": "An artist draws a smiling guest's caricature on paper clipped to a drawing board.",
+      "caption": "A hand-drawn party keepsake.",
+      "original_url": "https://static.wixstatic.com/media/5eb7ca_ce180a7fb0644eb7897500b92cd430fe~mv2.jpg",
+      "source_page": "https://www.magicofmarkson.com/partyservices",
+      "width": 1800,
+      "height": 1202,
+      "focal_point": {
+        "x": 0.57,
+        "y": 0.49
+      }
+    },
+    {
+      "key": "games",
+      "filename": "party-games-host.jpg",
+      "role": "games-hosting",
+      "alt": "Markson kneels beside a smiling child while holding a striped game pole overhead.",
+      "caption": "Markson leads a party game.",
+      "original_url": "https://static.wixstatic.com/media/5eb7ca_c9cfec06ee844dbe8073feb8303ab2c2~mv2.jpg",
+      "source_page": "https://www.magicofmarkson.com/games-hosting-singapore",
+      "width": 1800,
+      "height": 1198,
+      "focal_point": {
+        "x": 0.55,
+        "y": 0.49
+      }
+    },
+    {
+      "key": "family_games",
+      "filename": "family-party-games.jpg",
+      "role": "family-event",
+      "alt": "Children take part in a party activity as parents watch beneath a colourful balloon arch.",
+      "caption": "Party fun for children and families.",
+      "original_url": "https://static.wixstatic.com/media/5eb7ca_dd30e69b6b0e4ac6a554e67d1ab5404d~mv2.jpg",
+      "source_page": "https://www.magicofmarkson.com/games-hosting-singapore",
+      "width": 1800,
+      "height": 1198,
+      "focal_point": {
+        "x": 0.5,
+        "y": 0.48
+      }
+    }
+  ],
+  "blog": {
+    "articles": [
+      {
+        "title": "Singapore Kids Party Magician: Making Birthday Parties Truly Magical 🎩✨",
+        "url": "https://www.magicofmarkson.com/post/singapore-kids-party-magician-making-birthday-parties-truly-magical"
+      },
+      {
+        "title": "The Ultimate Guide to Planning the Perfect Kids' Birthday Party",
+        "url": "https://www.magicofmarkson.com/post/the-ultimate-guide-to-planning-the-perfect-kids-birthday-party"
+      },
+      {
+        "title": "How Should My Child's Upcoming Birthday Party Sequence Be Like?",
+        "url": "https://www.magicofmarkson.com/post/how-should-my-child-s-upcoming-birthday-party-sequence-be-like"
+      }
+    ]
+  }
+}
